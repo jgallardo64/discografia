@@ -33,7 +33,7 @@
         }
         
         //Añadiendo cambios para Git
-            //Añadiendo mas cambios para Git
+            //Adding more changes for Git
         ?>
         <h1>Insertar nuevas canciones</h1>
         <form name="canciones" action="#" method="post">                    
